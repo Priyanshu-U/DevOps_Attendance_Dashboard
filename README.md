@@ -1,11 +1,11 @@
 # DevOps Course Attendance Dashboard
-Welcome to the DevOps Course Attendance Dashboard! This project is a web-based dashboard built using Streamlit that provides insights into the attendance of the course. It pulls the attendance data directly from the form responses and calculates and segments the students based on their attendance percentage, considering the minimum applicable criteria of 75% attendance as per school laws.
+Welcome to the DevOps Course Attendance Dashboard! This project is a web-based dashboard built using Streamlit that provides insights into the attendance of the course. It pulls the attendance data directly from the form responses and calculates and segments the students based on their attendance percentage, considering the minimum applicable criteria of 75% attendance as per school rules.
 
 ## Features
-Graphical representation of attendance data
-Segmentation of students based on attendance criteria
-Dataframe view for detailed insights
-Automatic data updates from form responses
+- Graphical representation of attendance data
+- Segmentation of students based on attendance criteria
+- Dataframe view for detailed insights
+- Automatic data updates from form responses
 
 ## Demo
 Check out the live demo of the [DevOps Course Attendance Dashboard](https://devops-dash-iiitl.streamlit.app/).
